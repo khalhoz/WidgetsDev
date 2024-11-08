@@ -1,3 +1,8 @@
 {
-  "exampleConfigProperty": "test"
+  "exampleConfigProperty": "test more than a string",
+  "url": "",
+  "userName": true,
+  "extraParamerters": "",
+  "flowToken": ""
+
 }
