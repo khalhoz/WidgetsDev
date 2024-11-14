@@ -1,7 +1,8 @@
 {
-  "exampleConfigProperty": "test more than a string",
-  "url": "",
-  "userName": true,
+  "exampleConfigProperty": "Naam van de functie",
+  "url": "enter url here",
+  "userName": false,
+  "userNameParameter": "user=",
   "extraParamerters": "",
   "flowToken": ""
 
