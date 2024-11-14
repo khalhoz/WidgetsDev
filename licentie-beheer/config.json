@@ -4,6 +4,7 @@
   "userName": false,
   "userNameParameter": "user=",
   "extraParamerters": "",
-  "flowToken": ""
+  "flowToken": "",
+  "alertMessage": "Flow is aan het runnen, aanrader om 1 min te wachten dan het window opnieuw te openen"
 
 }
