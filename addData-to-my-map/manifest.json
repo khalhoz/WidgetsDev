@@ -5,8 +5,7 @@
   "version": "1.12.0",
   "exbVersion": "1.12.0",
   "author": "Khaled Alhoz / Dura Vermeer",
-  "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
-  "copyright": "",
+  "description": "This add data widget is a custom widget that allows add/remove data from a the map(veiw). It has the option to filter data based on categories",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {},
   "dependency": [
